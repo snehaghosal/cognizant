@@ -1,0 +1,8 @@
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.csproj.AssemblyReference.cache
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Downloads\WebApiDemo\obj\Debug\net6.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cache
